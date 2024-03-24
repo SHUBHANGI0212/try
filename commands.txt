@@ -3,4 +3,6 @@ commands used today
 git init 
 git add
 git commit
-git status 
+git status
+git restore
+ 
