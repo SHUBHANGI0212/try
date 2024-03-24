@@ -1,0 +1,6 @@
+commands used today 
+
+git init 
+git add
+git commit
+git status 
